@@ -1,6 +1,8 @@
 # Simple Node.js API
 This repository contains a simple Node.js server that serves data from a JSON file through an API.
 
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
 | ![Image 1](Screenshot_2024_12_19-1.png) | ![Image 2](Screenshot_2024_12_19-2.png) | ![Image 3](Screenshot_2024_12_19-3.png) |
 
 ---
