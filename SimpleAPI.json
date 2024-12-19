@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "email": "ali.khan@example.com",
+      "age": 25,
+      "city": "Karachi"
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "email": "sara.ahmed@example.com",
+      "age": 28,
+      "city": "Lahore"
+    },
+    {
+      "id": 3,
+      "name": "Bilal Hussain",
+      "email": "bilal.hussain@example.com",
+      "age": 22,
+      "city": "Islamabad"
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Khan",
+      "email": "ayesha.khan@example.com",
+      "age": 30,
+      "city": "Peshawar"
+    }
+  ]
+  
